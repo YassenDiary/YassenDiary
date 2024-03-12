@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @YassenDiary
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
-
-<!---
-YassenDiary/YassenDiary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @YassenDiary.
+- 👀 I’m interested in making things easier.
+- 💞️ I’m looking to collaborate if you are interested in a user experience creator or a content creator.
+- 📫 How to reach me? @YassenDiary on X(Twitter)
+- ⚡ Fun fact: Maybe I'm late but I get my work done.
